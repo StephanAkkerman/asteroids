@@ -1,2 +1,2 @@
 # Asteroids
- A replication of the game 'Asteroids' written in Haskell
+ A replication of the game 'Asteroids' written in Haskell. 
